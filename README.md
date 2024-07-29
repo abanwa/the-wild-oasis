@@ -8,3 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 #The Wild Oasis
+Built with React Query and Supabase
+the login details are
+email : tajipe9744@qodiq.com
+password: 1234567890
